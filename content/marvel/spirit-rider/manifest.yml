@@ -1,0 +1,9 @@
+id: spirit-rider
+name: Spirit Rider (Kushala)
+type: Hero Pack
+
+status: released
+version: 1.0.2
+
+assets:
+  path: images/

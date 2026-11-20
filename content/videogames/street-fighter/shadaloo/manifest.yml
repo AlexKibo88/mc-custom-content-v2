@@ -1,0 +1,9 @@
+id: ken-masters
+name: Ken (Kenneth Masters)
+type: Hero Pack
+
+status: beta
+version: 0.1.0-beta.1
+
+assets:
+  path: images/

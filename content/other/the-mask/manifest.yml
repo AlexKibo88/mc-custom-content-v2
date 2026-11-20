@@ -1,0 +1,9 @@
+id: the-mask
+name: The Mask (Stanley Ipkiss)
+type: Hero Pack
+
+status: released
+version: 1.0.1
+
+assets:
+  path: images/
